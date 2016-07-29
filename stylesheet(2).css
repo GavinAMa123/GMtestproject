@@ -23,14 +23,26 @@ div.header {
 div.Title{
 	height:100px;
 	background-color:#33332B;
-	padding-left: 350px;
-	padding-bottom: 50px;
+	padding-left: 320px;
+	padding-bottom: 175px;
 	font-size: 50pt;
 }
-
 div.navbar {
 	height: 30px;
 	background-color: #33332B;
+}
+
+li.oneline {
+	display: inline;
+	padding-right: 100px;
+	width:100%;
+	
+
+}
+li.line{
+	display:inline;
+	padding-right:99px
+	width:100%;
 }
 
 div.body {
@@ -65,4 +77,9 @@ p.Orange{
 
 p.White{
 	color: #FFFFFF;
+}
+div.navbar{
+	height: 30px;
+	background-color: #ED7926
+	margin: 20px;
 }
