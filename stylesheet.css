@@ -28,6 +28,7 @@ div.header {
 div.navbar {
 	height: 30px;
 	background-color: #33332B;
+	width:100%;
 }
 
 div.body {
@@ -57,3 +58,23 @@ table {
 	margin: auto;
 }
 *  {background-color: #33332B}
+
+div.header {
+	border-style:solid;
+	border-color:#33332B;
+}
+
+div.navbar {
+	height: 30px;
+	background-color: #ED7926;
+}
+
+li.oneline {
+	display: inline;
+	padding-right: 75px;
+}
+
+.linker {
+	color: gold;
+	text-decoration: none;
+}
