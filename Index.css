@@ -70,11 +70,12 @@ div.block{display: inline-block;
 
 }
 
-h3{font-size:30px;}
+h3{font-size:30px;
+}
 
 img.hello{
+	display:block;
 	margin:auto;
-
 }
 
 
