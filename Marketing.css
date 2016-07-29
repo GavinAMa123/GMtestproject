@@ -10,7 +10,7 @@ div {
 .inline-top {
 	display: inline;
 	color: #ed7926;
-	font-size: 750%;
+	font-size: 450%;
 	font-family: "Papyrus"
 
 }
@@ -28,6 +28,7 @@ div.header {
 
 div.navbar {
 	height: 30px;
+	background-color: #33332B;
 	width:100%;
 }
 
@@ -36,7 +37,9 @@ div.body {
 }
 
 div.content {
+	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
+	background-color: #ED7926;
 }
 
 div.sidebar {
@@ -58,9 +61,6 @@ table {
 }
 *  {background-color: #33332B}
 
-p{
-	color: #ffe6b3;
-}
 div.header {
 	border-style:solid;
 	border-color:#33332B;
@@ -68,6 +68,7 @@ div.header {
 
 div.navbar {
 	height: 30px;
+	background-color: #ED7926;
 }
 
 li.oneline {
