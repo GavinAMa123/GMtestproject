@@ -10,18 +10,21 @@ h1{
 	text-align: center;
 	color: #ED7926;
 	font-size:48px;
+	font-family:"Papyrus";
 
 
 }
 
 h2{text-align: center;
 	color: #ED7926;
+	font-family:"Century Gothic";
 
 
 }
 
 p{ 
 	color:#ED7926;
+	font-family: "Century Gothic";
 
 
 }
@@ -46,8 +49,8 @@ img.logo{  float:left;
 
 h3{color: #ED7926
 	;
-	text-align:center
-	;
+	text-align:center;
+	font-family:"Century Gothic";
 
 
 }
@@ -63,6 +66,13 @@ h3{font-size:30px;
 img.hello{
 	display:block;
 	margin:auto;
+}
+
+h4{color:#ED7926;
+	font-family:"Century Gothic"
+	text-align:center;
+
+
 }
 
 

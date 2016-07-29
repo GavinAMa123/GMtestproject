@@ -50,8 +50,11 @@ div.sidebar {
 
 div.footer {
 	height: 100px;
+<<<<<<< HEAD
 	background-color: #ffe6b3;
 	font-family: "Century Gothic"
+=======
+>>>>>>> origin/master
 }
 h1 {
 	text-align: center;
@@ -61,6 +64,9 @@ table {
 }
 *  {background-color: #33332B}
 
+p{
+	color: #ffe6b3;
+}
 div.header {
 	border-style:solid;
 	border-color:#33332B;
@@ -68,7 +74,6 @@ div.header {
 
 div.navbar {
 	height: 30px;
-	background-color: #ED7926;
 }
 
 li.oneline {
