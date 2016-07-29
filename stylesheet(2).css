@@ -46,14 +46,12 @@ div.body {
 }
 
 div.content {
-	width: 90% !important;
 	float: left; /*Puts content and sidebar next to each other*/
 	padding:50px;
 	background-color:#33332B;
 }
 
 div.sidebar {
-	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
 	background-color:#33332B;
 }
