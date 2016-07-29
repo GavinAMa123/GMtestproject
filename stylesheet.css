@@ -43,3 +43,9 @@ div.footer {
 	height: 100px;
 	background-color: #ffe6b3;
 }
+h1 {
+	text-align: center;
+}
+table {
+	margin: auto;
+}
