@@ -1,9 +1,10 @@
 * {
 	background-color:#33332B;
+	font-family:Century Gothic;
 }
 h1.star {
 	color:#ED7926;
-	font-family:papyrus;
+	
 	padding:20px;
 }
 p.hello {
