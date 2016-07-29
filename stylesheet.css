@@ -46,7 +46,6 @@ div.sidebar {
 
 div.footer {
 	height: 100px;
-	background-color: #ffe6b3;
 }
 h1 {
 	text-align: center;
@@ -56,6 +55,9 @@ table {
 }
 *  {background-color: #33332B}
 
+p{
+	color: #ffe6b3;
+}
 div.header {
 	border-style:solid;
 	border-color:#33332B;
