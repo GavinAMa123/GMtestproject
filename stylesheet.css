@@ -39,7 +39,6 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ED7926;
 }
 
 div.sidebar {
@@ -50,11 +49,8 @@ div.sidebar {
 
 div.footer {
 	height: 100px;
-<<<<<<< HEAD
 	background-color: #ffe6b3;
 	font-family: "Century Gothic"
-=======
->>>>>>> origin/master
 }
 h1 {
 	text-align: center;
