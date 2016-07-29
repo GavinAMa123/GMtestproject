@@ -7,6 +7,13 @@ div {
 	padding: 5px;
 }
 
+.inline-top {
+	display: inline;
+	color: #ed7926;
+	font-size: 750%
+
+}
+
 div.all {
 	width: 1000px;
 	margin: auto; /*Centers div*/
@@ -15,12 +22,12 @@ div.all {
 
 div.header {
 	height: 200px;
-	background-color: #ffcccc;
+	background-color: #33332B;
 }
 
 div.navbar {
 	height: 30px;
-	background-color: #99dfff;
+	background-color: #33332B;
 }
 
 div.body {
@@ -30,16 +37,22 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #99ff99;
+	background-color: #ED7926;
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ccccff;
+	background-color: #ED7926;
 }
 
 div.footer {
 	height: 100px;
-	background-color: #ffe6b3;
+	color: #33332B;
+
+
+
 }
+
+*  {background-color: #33332B}
+
