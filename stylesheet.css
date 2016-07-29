@@ -27,7 +27,6 @@ div.header {
 
 div.navbar {
 	height: 30px;
-	background-color: #33332B;
 	width:100%;
 }
 
@@ -36,9 +35,7 @@ div.body {
 }
 
 div.content {
-	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ED7926;
 }
 
 div.sidebar {
@@ -66,7 +63,6 @@ div.header {
 
 div.navbar {
 	height: 30px;
-	background-color: #ED7926;
 }
 
 li.oneline {

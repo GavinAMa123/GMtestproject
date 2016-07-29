@@ -12,7 +12,7 @@ div.all {
 	width: 1000px;
 	margin: auto; /*Centers div*/
 	padding: 10px !important;
-}
+} 
 
 
 div.header {
@@ -23,27 +23,21 @@ div.header {
 div.Title{
 	height:100px;
 	background-color:#33332B;
-	padding-left: 320px;
+	padding-left: 200px;
 	padding-bottom: 175px;
 	font-size: 50pt;
 }
 div.navbar {
 	height: 30px;
-	background-color: #33332B;
+	margin: 20px;
 }
-
-li.oneline {
-	display: inline;
-	padding-right: 100px;
-	width:100%;
-	
-
+ul {
+	list-style:none;
 }
-li.line{
+ul li {
 	display:inline;
-	padding-right:99px
-	width:100%;
 }
+
 
 div.body {
 	padding: 5px !important;
