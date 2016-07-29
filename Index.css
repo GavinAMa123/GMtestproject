@@ -41,7 +41,7 @@ p{
 
 img.MuscleyArm{  float:left;
 
-padding-right: 15px;
+	padding-right: 15px;
 
 }
 
@@ -54,6 +54,26 @@ padding-right: 15px;
 
 img.logo{  float:left;
 
+
+}
+
+h3{color: #ED7926
+	;
+	text-align:center
+	;
+
+
+}
+
+div.block{display: inline-block;
+
+
+}
+
+h3{font-size:30px;}
+
+img.hello{
+	margin:auto;
 
 }
 
