@@ -4,54 +4,50 @@
 
 div {
 	width: 100%;
-	padding: 5px;
-}
-
-.inline-top {
-	display: inline;
-	color: #ed7926;
-	font-size: 750%
-
+	padding: 10px;
 }
 
 div.all {
 	width: 1000px;
 	margin: auto; /*Centers div*/
-	padding: 0px !important;
+	padding: 10px !important;
 }
 
 div.header {
 	height: 200px;
-	background-color: #33332B;
+	background-color: #000000;
 }
 
 div.navbar {
 	height: 30px;
-	background-color: #33332B;
+	background-color: #000000;
 }
 
 div.body {
-	padding: 0px !important;
+	padding: 10px !important;
 }
 
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ED7926;
+	background-color: #000000;
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ED7926;
+	background-color: #000000;
 }
 
 div.footer {
 	height: 100px;
-	color: #33332B;
-
-
-
+	background-color: #000000;
 }
 
-*  {background-color: #33332B}
+span.Orange{
+	color: #ED7926;
+}
+
+p.Orange{
+	color: #ED7926;
+}
